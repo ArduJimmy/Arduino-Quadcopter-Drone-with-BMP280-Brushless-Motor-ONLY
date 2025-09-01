@@ -6,6 +6,10 @@ This is a source code for brushless motors and ESCs of arduino quadcopter drone 
 
 <p>Then please go to: https://github.com/ArduJimmy/Arduino-Quadcopter-Multiwii-5-Inch-QAV250-with-BMP180 for SCHEMATIC DIAGRAM since the wiring is THE SAME, so just follow the schematic diagram at that link.</p>
 
+<h3>SUBSCRIBE TO OUR YOUTUBE CHANNEL</h3>
+<p><b>Related links to this project:</b> https://www.youtube.com/watch?v=1t2510E7TZg</p>
+<p><b>Our YOUTUBE Channel:</b> https://www.youtube.com/@ardujimmy</p>
+
 <p><b>IMAGES NEEDED</b></p>
 <br /><br />
 <img src="https://github.com/ArduJimmy/Arduino-Quadcopter-Drone-with-BMP280-Brushless-Motor-ONLY/blob/main/multiwiiconf_GUI%20for%20bmp280.PNG" alt="bmp280, arduino quadcopter with bmp280, arduino drone with bmp280" />
